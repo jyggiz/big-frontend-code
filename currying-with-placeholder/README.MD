@@ -1,7 +1,7 @@
 # Currying with placeholder
 Currying is a useful technique used in JavaScript applications.
 
-Please implement curry() which also supports placeholder.
+Please implement curry() which also supports placeholder
 
 Here is an example:
 
