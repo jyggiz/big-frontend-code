@@ -5,3 +5,4 @@
 1. [Currying](https://github.com/jyggiz/big-frontend-code/currying/README.md)
 2. [Currying with placeholder](https://github.com/jyggiz/big-frontend-code/currying-with-placeholder/README.md)
 3. [Flat](https://github.com/jyggiz/big-frontend-code/flat/README.md)
+4. [Throttle](https://github.com/jyggiz/big-frontend-code/throttle/README.md)
