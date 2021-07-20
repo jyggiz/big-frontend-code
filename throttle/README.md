@@ -6,7 +6,7 @@ could you implement your own version of basic throttle()?
 
 In case you forgot, throttle(func, delay) will return a throttled function, which will invoke the func at a max frequency no matter how throttled one is called.
 
-Here is an example.
+Here is an example
 
 Before throttling we have a series of calling like
 
